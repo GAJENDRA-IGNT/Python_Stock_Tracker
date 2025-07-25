@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+*.csv 
+#Optional: if you don't want to track the data file itself in Git
